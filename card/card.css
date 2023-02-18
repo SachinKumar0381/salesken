@@ -1,0 +1,57 @@
+
+.header{
+    padding: 5px;
+    padding-left: 3%;
+    background-color: #AD7BE9;
+    margin-bottom: 30px;
+    border-bottom: 1px solid gray;
+}
+.gold{
+    color: rgb(234, 181, 48);
+}
+h1{
+    color: #3E54AC;
+}
+body{
+    background-color: #EEEEEE;
+    font-family:sans-serif;
+}
+.center{
+    text-align: center;
+    text-decoration: underline;
+}
+table{
+    width: 80%;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: #AD7BE9;
+}
+th,td{
+    padding: 10px;
+    border: 1px solid #AD7BE9;
+    background-color: #EEEEEE;
+}
+.score{
+    width: 80%;
+    margin: auto;
+    color: gray;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.trophy{
+    font-size: 150px;
+    margin-top: 0;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
+.gray{
+    color: gray;
+}
+#home:hover{
+    cursor: pointer;
+}
